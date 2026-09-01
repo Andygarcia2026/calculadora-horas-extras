@@ -18,7 +18,8 @@ Projeto Java para cálculo de horas extras seguindo a base de 220h mensais da CL
 ```bash
 git clone https://github.com/Andygarcia2026/calculadora-horas-extras.git
 javac Main.java CalculadoraHoraExtra.java
-java Main ```
+java Main
+```
 
 Exemplo de uso
 
